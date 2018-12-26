@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3368532a-7135-4ea0-ad8f-8f2b0cc84919" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SiloHost/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="640">
+              <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+              <folding>
+                <marker date="1545592064648" expanded="false" signature="6:189" ph="..." />
+                <marker date="1545592064648" expanded="true" signature="216:1687" ph="{...}" />
+                <marker date="1545592064648" expanded="true" signature="243:1685" ph="{...}" />
+                <marker date="1545592064648" expanded="true" signature="295:357" ph="{...}" />
+                <marker date="1545592064648" expanded="true" signature="412:818" ph="{...}" />
+                <marker date="1545592064648" expanded="true" signature="438:682" ph="{...}" />
+                <marker date="1545592064648" expanded="true" signature="715:808" ph="{...}" />
+                <marker date="1545592064648" expanded="true" signature="876:1679" ph="{...}" />
+                <marker date="1545592064648" expanded="true" signature="1078:1218" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloGrain.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HelloWorld.Grains/HelloGrain.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <marker date="1545591056250" expanded="false" signature="6:94" ph="..." />
+                <marker date="1545591056250" expanded="true" signature="123:678" ph="{...}" />
+                <marker date="1545591056250" expanded="true" signature="130:217" ph="/// Orleans grain implementation class HelloGrain. ... " />
+                <marker date="1545591056250" expanded="true" signature="269:676" ph="{...}" />
+                <marker date="1545591056250" expanded="true" signature="371:425" ph="{...}" />
+                <marker date="1545591056250" expanded="true" signature="482:670" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloArchiveGrain.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HelloWorld.Grains/HelloArchiveGrain.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+              <folding>
+                <marker date="1545591056222" expanded="false" signature="6:107" ph="..." />
+                <marker date="1545591056222" expanded="true" signature="136:716" ph="{...}" />
+                <marker date="1545591056222" expanded="true" signature="213:599" ph="{...}" />
+                <marker date="1545591056222" expanded="true" signature="279:442" ph="{...}" />
+                <marker date="1545591056222" expanded="true" signature="499:593" ph="{...}" />
+                <marker date="1545591056222" expanded="true" signature="633:714" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OrleansClient/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1077">
+              <caret line="94" column="59" lean-forward="true" selection-start-line="94" selection-start-column="59" selection-end-line="94" selection-end-column="59" />
+              <folding>
+                <marker date="1545592132372" expanded="false" signature="6:175" ph="..." />
+                <marker date="1545592132372" expanded="true" signature="200:3082" ph="{...}" />
+                <marker date="1545592132372" expanded="true" signature="207:272" ph="/// Orleans test silo client ... " />
+                <marker date="1545592132372" expanded="true" signature="297:3080" ph="{...}" />
+                <marker date="1545592132372" expanded="true" signature="438:500" ph="{...}" />
+                <marker date="1545592132372" expanded="true" signature="555:996" ph="{...}" />
+                <marker date="1545592132372" expanded="true" signature="581:827" ph="{...}" />
+                <marker date="1545592132372" expanded="true" signature="663:786" ph="{...}" />
+                <marker date="1545592132372" expanded="true" signature="859:986" ph="{...}" />
+                <marker date="1545592132372" expanded="true" signature="1072:1673" ph="{...}" />
+                <marker date="1545592132372" expanded="true" signature="1279:1419" ph="{...}" />
+                <marker date="1545592132372" expanded="true" signature="1747:2447" ph="{...}" />
+                <marker date="1545592132372" expanded="true" signature="1830:2039" ph="{...}" />
+                <marker date="1545592132372" expanded="true" signature="2298:2356" ph="{...}" />
+                <marker date="1545592132372" expanded="true" signature="2518:3074" ph="{...}" />
+                <marker date="1545592132372" expanded="true" signature="2976:3064" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/HelloWorld.Grains/HelloGrain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/HelloWorld.Grains/HelloArchiveGrain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SiloHost/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/OrleansClient/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BuildAndRun.sh" />
+        <option value="$PROJECT_DIR$/src/SiloHost/Program.cs" />
+        <option value="$PROJECT_DIR$/src/OrleansClient/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="2111" />
+    <option name="height" value="1407" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HelloWorld (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HelloWorld (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Solution Items" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HelloWorld (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="HelloWorld.Grains" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HelloWorld (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="OrleansClient" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HelloWorld (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SiloHost" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.OrleansClient">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+    <configuration name="OrleansClient" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/src/OrleansClient/bin/Debug/netcoreapp2.1/OrleansClient.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/OrleansClient" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/src/OrleansClient/OrleansClient.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+    </configuration>
+    <configuration name="SiloHost" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/src/SiloHost/bin/Debug/netcoreapp2.1/SiloHost.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/SiloHost" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/src/SiloHost/SiloHost.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.SiloHost" />
+      <item itemvalue=".NET Project.OrleansClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.OrleansClient" />
+        <item itemvalue=".NET Project.SiloHost" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3368532a-7135-4ea0-ad8f-8f2b0cc84919" name="Default" comment="" />
+      <created>1545591082380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545591082380</updated>
+      <workItem from="1545591084784" duration="73000" />
+      <workItem from="1545591176818" duration="27000" />
+      <workItem from="1545591222365" duration="106000" />
+      <workItem from="1545591361076" duration="1441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1647000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="2111" height="1407" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21257924" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" weight="0.32941177" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SiloHost/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <marker date="1545592064648" expanded="false" signature="6:189" ph="..." />
+            <marker date="1545592064648" expanded="true" signature="216:1687" ph="{...}" />
+            <marker date="1545592064648" expanded="true" signature="243:1685" ph="{...}" />
+            <marker date="1545592064648" expanded="true" signature="295:357" ph="{...}" />
+            <marker date="1545592064648" expanded="true" signature="412:818" ph="{...}" />
+            <marker date="1545592064648" expanded="true" signature="438:682" ph="{...}" />
+            <marker date="1545592064648" expanded="true" signature="715:808" ph="{...}" />
+            <marker date="1545592064648" expanded="true" signature="876:1679" ph="{...}" />
+            <marker date="1545592064648" expanded="true" signature="1078:1218" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuildAndRun.ps1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuildAndRun.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuildAndRun.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuildAndRun.ps1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="39" lean-forward="true" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.Grains/HelloGrain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <marker date="1545591056250" expanded="false" signature="6:94" ph="..." />
+            <marker date="1545591056250" expanded="true" signature="123:678" ph="{...}" />
+            <marker date="1545591056250" expanded="true" signature="130:217" ph="/// Orleans grain implementation class HelloGrain. ... " />
+            <marker date="1545591056250" expanded="true" signature="269:676" ph="{...}" />
+            <marker date="1545591056250" expanded="true" signature="371:425" ph="{...}" />
+            <marker date="1545591056250" expanded="true" signature="482:670" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.Grains/HelloArchiveGrain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <marker date="1545591056222" expanded="false" signature="6:107" ph="..." />
+            <marker date="1545591056222" expanded="true" signature="136:716" ph="{...}" />
+            <marker date="1545591056222" expanded="true" signature="213:599" ph="{...}" />
+            <marker date="1545591056222" expanded="true" signature="279:442" ph="{...}" />
+            <marker date="1545591056222" expanded="true" signature="499:593" ph="{...}" />
+            <marker date="1545591056222" expanded="true" signature="633:714" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SiloHost/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+          <folding>
+            <marker date="1545592064648" expanded="false" signature="6:189" ph="..." />
+            <marker date="1545592064648" expanded="true" signature="216:1687" ph="{...}" />
+            <marker date="1545592064648" expanded="true" signature="243:1685" ph="{...}" />
+            <marker date="1545592064648" expanded="true" signature="295:357" ph="{...}" />
+            <marker date="1545592064648" expanded="true" signature="412:818" ph="{...}" />
+            <marker date="1545592064648" expanded="true" signature="438:682" ph="{...}" />
+            <marker date="1545592064648" expanded="true" signature="715:808" ph="{...}" />
+            <marker date="1545592064648" expanded="true" signature="876:1679" ph="{...}" />
+            <marker date="1545592064648" expanded="true" signature="1078:1218" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrleansClient/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1077">
+          <caret line="94" column="59" lean-forward="true" selection-start-line="94" selection-start-column="59" selection-end-line="94" selection-end-column="59" />
+          <folding>
+            <marker date="1545592132372" expanded="false" signature="6:175" ph="..." />
+            <marker date="1545592132372" expanded="true" signature="200:3082" ph="{...}" />
+            <marker date="1545592132372" expanded="true" signature="207:272" ph="/// Orleans test silo client ... " />
+            <marker date="1545592132372" expanded="true" signature="297:3080" ph="{...}" />
+            <marker date="1545592132372" expanded="true" signature="438:500" ph="{...}" />
+            <marker date="1545592132372" expanded="true" signature="555:996" ph="{...}" />
+            <marker date="1545592132372" expanded="true" signature="581:827" ph="{...}" />
+            <marker date="1545592132372" expanded="true" signature="663:786" ph="{...}" />
+            <marker date="1545592132372" expanded="true" signature="859:986" ph="{...}" />
+            <marker date="1545592132372" expanded="true" signature="1072:1673" ph="{...}" />
+            <marker date="1545592132372" expanded="true" signature="1279:1419" ph="{...}" />
+            <marker date="1545592132372" expanded="true" signature="1747:2447" ph="{...}" />
+            <marker date="1545592132372" expanded="true" signature="1830:2039" ph="{...}" />
+            <marker date="1545592132372" expanded="true" signature="2298:2356" ph="{...}" />
+            <marker date="1545592132372" expanded="true" signature="2518:3074" ph="{...}" />
+            <marker date="1545592132372" expanded="true" signature="2976:3064" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

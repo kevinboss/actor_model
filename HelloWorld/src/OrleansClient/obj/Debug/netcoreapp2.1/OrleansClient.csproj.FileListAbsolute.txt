@@ -1,0 +1,14 @@
+C:\Users\kevin\Repos\actor_model\HelloWorld\src\OrleansClient\bin\Debug\netcoreapp2.1\OrleansClient.dll.config
+C:\Users\kevin\Repos\actor_model\HelloWorld\src\OrleansClient\bin\Debug\netcoreapp2.1\OrleansClient.deps.json
+C:\Users\kevin\Repos\actor_model\HelloWorld\src\OrleansClient\bin\Debug\netcoreapp2.1\OrleansClient.runtimeconfig.json
+C:\Users\kevin\Repos\actor_model\HelloWorld\src\OrleansClient\bin\Debug\netcoreapp2.1\OrleansClient.runtimeconfig.dev.json
+C:\Users\kevin\Repos\actor_model\HelloWorld\src\OrleansClient\bin\Debug\netcoreapp2.1\OrleansClient.dll
+C:\Users\kevin\Repos\actor_model\HelloWorld\src\OrleansClient\bin\Debug\netcoreapp2.1\OrleansClient.pdb
+C:\Users\kevin\Repos\actor_model\HelloWorld\src\OrleansClient\bin\Debug\netcoreapp2.1\HelloWorld.Interfaces.dll
+C:\Users\kevin\Repos\actor_model\HelloWorld\src\OrleansClient\bin\Debug\netcoreapp2.1\HelloWorld.Interfaces.pdb
+C:\Users\kevin\Repos\actor_model\HelloWorld\src\OrleansClient\obj\Debug\netcoreapp2.1\OrleansClient.csprojAssemblyReference.cache
+C:\Users\kevin\Repos\actor_model\HelloWorld\src\OrleansClient\obj\Debug\netcoreapp2.1\OrleansClient.dll.config
+C:\Users\kevin\Repos\actor_model\HelloWorld\src\OrleansClient\obj\Debug\netcoreapp2.1\OrleansClient.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Repos\actor_model\HelloWorld\src\OrleansClient\obj\Debug\netcoreapp2.1\OrleansClient.csproj.CopyComplete
+C:\Users\kevin\Repos\actor_model\HelloWorld\src\OrleansClient\obj\Debug\netcoreapp2.1\OrleansClient.dll
+C:\Users\kevin\Repos\actor_model\HelloWorld\src\OrleansClient\obj\Debug\netcoreapp2.1\OrleansClient.pdb

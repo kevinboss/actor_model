@@ -1,0 +1,60 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\OrleansClient\\OrleansClient.csproj",
+    "projectName": "OrleansClient",
+    "projectPath": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\OrleansClient\\OrleansClient.csproj",
+    "outputPath": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\OrleansClient\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Interfaces\\HelloWorld.Interfaces.csproj": {
+            "projectPath": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Interfaces\\HelloWorld.Interfaces.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.Extensions.Logging.Console": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.Orleans.Core": {
+          "target": "Package",
+          "version": "[2.1.2, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  },
+  "runtimes": {
+    "win": {
+      "#import": []
+    }
+  }
+}
