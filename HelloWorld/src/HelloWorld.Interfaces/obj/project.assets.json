@@ -193,10 +193,12 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -1307,30 +1309,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kevin\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/kevinboss/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Interfaces\\HelloWorld.Interfaces.csproj",
+      "projectUniqueName": "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/HelloWorld.Interfaces/HelloWorld.Interfaces.csproj",
       "projectName": "HelloWorld.Interfaces",
-      "projectPath": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Interfaces\\HelloWorld.Interfaces.csproj",
-      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Interfaces\\obj\\",
+      "projectPath": "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/HelloWorld.Interfaces/HelloWorld.Interfaces.csproj",
+      "packagesPath": "/Users/kevinboss/.nuget/packages/",
+      "outputPath": "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/HelloWorld.Interfaces/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/kevinboss/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

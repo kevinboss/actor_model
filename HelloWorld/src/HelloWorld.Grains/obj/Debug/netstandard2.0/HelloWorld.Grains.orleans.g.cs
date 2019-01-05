@@ -8,10 +8,10 @@
 #pragma warning disable 693
 #pragma warning disable 1591
 #pragma warning disable 1998
-[assembly: global::Orleans.Metadata.FeaturePopulatorAttribute(typeof(OrleansGeneratedCode.OrleansCodeGen0c21cf25eaFeaturePopulator))]
+[assembly: global::Orleans.Metadata.FeaturePopulatorAttribute(typeof(OrleansGeneratedCode.OrleansCodeGend759eccd36FeaturePopulator))]
 [assembly: global::System.CodeDom.Compiler.GeneratedCodeAttribute(@"Orleans-CodeGenerator", @"2.0.0.0")]
 [assembly: global::Orleans.CodeGeneration.OrleansCodeGenerationTargetAttribute(@"HelloWorld.Grains, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null")]
-namespace OrleansGeneratedCodeC826806B
+namespace OrleansGeneratedCode23121D85
 {
     using global::Orleans;
     using global::System.Reflection;
@@ -57,7 +57,7 @@ namespace OrleansGeneratedCodeC826806B
 namespace OrleansGeneratedCode
 {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute(@"Orleans-CodeGenerator", @"2.0.0.0")]
-    internal sealed class OrleansCodeGen0c21cf25eaFeaturePopulator : global::Orleans.Metadata.IFeaturePopulator<global::Orleans.Metadata.GrainInterfaceFeature>, global::Orleans.Metadata.IFeaturePopulator<global::Orleans.Metadata.GrainClassFeature>, global::Orleans.Metadata.IFeaturePopulator<global::Orleans.Serialization.SerializerFeature>
+    internal sealed class OrleansCodeGend759eccd36FeaturePopulator : global::Orleans.Metadata.IFeaturePopulator<global::Orleans.Metadata.GrainInterfaceFeature>, global::Orleans.Metadata.IFeaturePopulator<global::Orleans.Metadata.GrainClassFeature>, global::Orleans.Metadata.IFeaturePopulator<global::Orleans.Serialization.SerializerFeature>
     {
         public void Populate(global::Orleans.Metadata.GrainInterfaceFeature feature)
         {
@@ -71,7 +71,7 @@ namespace OrleansGeneratedCode
 
         public void Populate(global::Orleans.Serialization.SerializerFeature feature)
         {
-            feature.AddSerializerType(typeof(global::HelloWorld.Grains.GreetingArchive), typeof(OrleansGeneratedCodeC826806B.OrleansCodeGenHelloWorld_Grains_GreetingArchiveSerializer));
+            feature.AddSerializerType(typeof(global::HelloWorld.Grains.GreetingArchive), typeof(OrleansGeneratedCode23121D85.OrleansCodeGenHelloWorld_Grains_GreetingArchiveSerializer));
             feature.AddKnownType(@"HelloWorld.Grains.HelloArchiveGrain,HelloWorld.Grains", @"HelloWorld.Grains.HelloArchiveGrain");
             feature.AddKnownType(@"HelloWorld.Grains.GreetingArchive,HelloWorld.Grains", @"HelloWorld.Grains.GreetingArchive");
             feature.AddKnownType(@"HelloWorld.Grains.HelloGrain,HelloWorld.Grains", @"HelloWorld.Grains.HelloGrain");

@@ -1,0 +1,60 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/kevinboss/Documents/Repos/actor_model/Stocks/src/Stocks.Grains/Stocks.Grains.csproj",
+    "projectName": "Stocks.Grains",
+    "projectPath": "/Users/kevinboss/Documents/Repos/actor_model/Stocks/src/Stocks.Grains/Stocks.Grains.csproj",
+    "outputPath": "/Users/kevinboss/Documents/Repos/actor_model/Stocks/src/Stocks.Grains/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {
+          "/Users/kevinboss/Documents/Repos/actor_model/Stocks/src/Stocks.Interfaces/Stocks.Interfaces.csproj": {
+            "projectPath": "/Users/kevinboss/Documents/Repos/actor_model/Stocks/src/Stocks.Interfaces/Stocks.Interfaces.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "Microsoft.Extensions.Logging.Abstractions": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.Orleans.Core.Abstractions": {
+          "target": "Package",
+          "version": "[2.*, )"
+        },
+        "Microsoft.Orleans.OrleansCodeGenerator.Build": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.*, )"
+        },
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.3, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\SiloHost\\SiloHost.csproj",
+    "projectUniqueName": "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/SiloHost/SiloHost.csproj",
     "projectName": "SiloHost",
-    "projectPath": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\SiloHost\\SiloHost.csproj",
-    "outputPath": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\SiloHost\\obj\\",
+    "projectPath": "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/SiloHost/SiloHost.csproj",
+    "outputPath": "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/SiloHost/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.1"
@@ -15,11 +15,11 @@
     "frameworks": {
       "netcoreapp2.1": {
         "projectReferences": {
-          "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Grains\\HelloWorld.Grains.csproj": {
-            "projectPath": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Grains\\HelloWorld.Grains.csproj"
+          "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/HelloWorld.Grains/HelloWorld.Grains.csproj": {
+            "projectPath": "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/HelloWorld.Grains/HelloWorld.Grains.csproj"
           },
-          "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Interfaces\\HelloWorld.Interfaces.csproj": {
-            "projectPath": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Interfaces\\HelloWorld.Interfaces.csproj"
+          "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/HelloWorld.Interfaces/HelloWorld.Interfaces.csproj": {
+            "projectPath": "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/HelloWorld.Interfaces/HelloWorld.Interfaces.csproj"
           }
         }
       }

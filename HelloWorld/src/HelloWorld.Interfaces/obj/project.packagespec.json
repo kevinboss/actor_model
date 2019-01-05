@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Interfaces\\HelloWorld.Interfaces.csproj",
+    "projectUniqueName": "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/HelloWorld.Interfaces/HelloWorld.Interfaces.csproj",
     "projectName": "HelloWorld.Interfaces",
-    "projectPath": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Interfaces\\HelloWorld.Interfaces.csproj",
-    "outputPath": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Interfaces\\obj\\",
+    "projectPath": "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/HelloWorld.Interfaces/HelloWorld.Interfaces.csproj",
+    "outputPath": "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/HelloWorld.Interfaces/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netstandard2.0"

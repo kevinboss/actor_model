@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Grains\\HelloWorld.Grains.csproj",
+    "projectUniqueName": "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/HelloWorld.Grains/HelloWorld.Grains.csproj",
     "projectName": "HelloWorld.Grains",
-    "projectPath": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Grains\\HelloWorld.Grains.csproj",
-    "outputPath": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Grains\\obj\\",
+    "projectPath": "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/HelloWorld.Grains/HelloWorld.Grains.csproj",
+    "outputPath": "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/HelloWorld.Grains/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netstandard2.0"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netstandard2.0": {
         "projectReferences": {
-          "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Interfaces\\HelloWorld.Interfaces.csproj": {
-            "projectPath": "C:\\Users\\kevin\\Repos\\actor_model\\HelloWorld\\src\\HelloWorld.Interfaces\\HelloWorld.Interfaces.csproj"
+          "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/HelloWorld.Interfaces/HelloWorld.Interfaces.csproj": {
+            "projectPath": "/Users/kevinboss/Documents/Repos/actor_model/HelloWorld/src/HelloWorld.Interfaces/HelloWorld.Interfaces.csproj"
           }
         }
       }

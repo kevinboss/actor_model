@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="BuildAndRun.ps1" t="Include" />
+      <e p="BuildAndRun.sh" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Readme.md" t="Include" />
+      <e p="Solution Items" t="Include" />
+      <e p="src/SiloHost" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="SiloHost.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="src/Stocks.Grains" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Stocks.Grains.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="StockGrain.cs" t="Include" />
+        <e p="Stocks.Grains.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="src/Stocks.Interfaces" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="IStockGrain.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Stocks.Interfaces.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Stocks.Interfaces.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Stocks.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Stocks.234693725.00" t="ExcludeRecursive" />
+  </component>
+</project>

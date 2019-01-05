@@ -1,0 +1,67 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/kevinboss/Documents/Repos/actor_model/Stocks/src/SiloHost/SiloHost.csproj",
+    "projectName": "SiloHost",
+    "projectPath": "/Users/kevinboss/Documents/Repos/actor_model/Stocks/src/SiloHost/SiloHost.csproj",
+    "outputPath": "/Users/kevinboss/Documents/Repos/actor_model/Stocks/src/SiloHost/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/Users/kevinboss/Documents/Repos/actor_model/Stocks/src/Stocks.Grains/Stocks.Grains.csproj": {
+            "projectPath": "/Users/kevinboss/Documents/Repos/actor_model/Stocks/src/Stocks.Grains/Stocks.Grains.csproj"
+          },
+          "/Users/kevinboss/Documents/Repos/actor_model/Stocks/src/Stocks.Interfaces/Stocks.Interfaces.csproj": {
+            "projectPath": "/Users/kevinboss/Documents/Repos/actor_model/Stocks/src/Stocks.Interfaces/Stocks.Interfaces.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.Extensions.Logging.Console": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.Orleans.OrleansProviders": {
+          "target": "Package",
+          "version": "[2.*, )"
+        },
+        "Microsoft.Orleans.OrleansRuntime": {
+          "target": "Package",
+          "version": "[2.*, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  },
+  "runtimes": {
+    "win": {
+      "#import": []
+    }
+  }
+}
